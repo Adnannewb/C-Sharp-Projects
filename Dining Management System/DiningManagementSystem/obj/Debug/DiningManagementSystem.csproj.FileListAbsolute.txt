@@ -1,0 +1,42 @@
+C:\Users\USER\source\repos\DiningManagementSystem\bin\Debug\DiningManagementSystem.exe.config
+C:\Users\USER\source\repos\DiningManagementSystem\bin\Debug\DiningManagementSystem.exe
+C:\Users\USER\source\repos\DiningManagementSystem\bin\Debug\DiningManagementSystem.pdb
+C:\Users\USER\source\repos\DiningManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\source\repos\DiningManagementSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\DiningManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\source\repos\DiningManagementSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.AdminDashboard.resources
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.LoginForm.resources
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.MealManagementForm.resources
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.Properties.Resources.resources
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.StaffManagementForm.resources
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.StudentManagementForm.resources
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.TokenManagementForm.resources
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.TransactionManagementForm.resources
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningMa.011278D2.Up2Date
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.exe
+C:\Users\USER\source\repos\DiningManagementSystem\obj\Debug\DiningManagementSystem.pdb
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\bin\Debug\DiningManagementSystem.exe.config
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\bin\Debug\DiningManagementSystem.exe
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\bin\Debug\DiningManagementSystem.pdb
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\bin\Debug\System.Data.SqlClient.xml
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.AdminDashboard.resources
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.LoginForm.resources
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.MealManagementForm.resources
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.Properties.Resources.resources
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.StaffManagementForm.resources
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.StudentManagementForm.resources
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.TokenManagementForm.resources
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.TransactionManagementForm.resources
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningMa.011278D2.Up2Date
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.exe
+C:\Users\USER\Downloads\mamun vai\DiningManagementSystem\obj\Debug\DiningManagementSystem.pdb

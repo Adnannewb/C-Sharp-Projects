@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|d:\\cse\\c# projects\\dining management system\\diningmanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|d:\\cse\\c# projects\\dining management system\\diningmanagementsystem\\mealmanagementform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|solutionrelative:mealmanagementform .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\transactionmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|solutionrelative:transactionmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\transactionmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|solutionrelative:transactionmanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\transactionmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|solutionrelative:transactionmanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07F761D2-91F2-4B21-8780-45FA0E1A7202}|DiningManagementSystem.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-18T01:33:57.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionManagementForm.Designer.cs",
+              "DocumentMoniker": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\TransactionManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "TransactionManagementForm.Designer.cs",
+              "ToolTip": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\TransactionManagementForm.Designer.cs",
+              "RelativeToolTip": "TransactionManagementForm.Designer.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAMwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:06:19.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionManagementForm.cs",
+              "DocumentMoniker": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\TransactionManagementForm.cs",
+              "RelativeDocumentMoniker": "TransactionManagementForm.cs",
+              "ToolTip": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\TransactionManagementForm.cs",
+              "RelativeToolTip": "TransactionManagementForm.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAqwP4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:02:04.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MealManagementForm .cs [Design]",
+              "DocumentMoniker": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\MealManagementForm .cs",
+              "RelativeDocumentMoniker": "MealManagementForm .cs",
+              "ToolTip": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\MealManagementForm .cs [Design]",
+              "RelativeToolTip": "MealManagementForm .cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:01:32.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransactionManagementForm.cs [Design]",
+              "DocumentMoniker": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\TransactionManagementForm.cs",
+              "RelativeDocumentMoniker": "TransactionManagementForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DiningManagementSystem\\TransactionManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T01:01:18.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\CSE\\C# projects\\Dining Management System\\DiningManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\DiningManagementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:46:53.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
